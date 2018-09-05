@@ -1,0 +1,13 @@
+{
+  "id": "youtrack",
+  "name": "YouTrack",
+  "version": "1.0.0",
+  "description": "YouTrack",
+  "main": "index.js",
+  "author": "Shunya Yamashita <shymst125@gmail.com>",
+  "license": "MIT",
+  "repository": "",
+  "config": {
+    "serviceURL": "https://lcl-bus.myjetbrains.com/youtrack/agiles"
+  }
+}
